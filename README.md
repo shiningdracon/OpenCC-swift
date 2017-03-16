@@ -1,5 +1,5 @@
 # OpenCC-swift
-OpenCC Swift wrapper
+[OpenCC](https://github.com/BYVoid/OpenCC) Swift wrapper
 
 ## OS X Build Notes
 
