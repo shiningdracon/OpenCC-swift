@@ -13,7 +13,11 @@ To install Home Brew:
 
 ## Linux Build Notes
 
-Not supported yet, coming soon.
+This package requires libopencc-dev installed.
+
+```
+sudo apt-get install libopencc-dev
+```
 
 ## Building
 
